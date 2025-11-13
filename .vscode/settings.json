@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "Driver/mysql-connector-j-9.1.0.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.debug.settings.console": "integratedTerminal",
+  "java.compile.nullAnalysis.mode": "automatic"
+}

@@ -1,0 +1,1 @@
+// Thread timer berjalan paralel

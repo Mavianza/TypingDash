@@ -1,0 +1,9 @@
+String[] samples = {
+            "Tlah banyak cara tuhan menghadirkan cinta, mungkin engkau adalah salah satunya. Namun engkau datang di saat yang tidak tepat, cintaku telah dimiliki. Inilah akhirnya harus kuakhiri sebelum cintamu semakin dalam. Maafkan diriku memilih setia, walaupun ku tahu cintamu lebih besar darinya.",
+
+            "Ku tahu semua akan berakhir, tapi ku tak rela lepaskanmu. Kau tanya mengapa aku tak ingin pergi darimu, dan mulutku diam membisu. Salahkah bila diriku terlalu mencintaimu? Jangan tanyakan mengapa, karna aku tak tahu.",
+
+            "Detik indah di pulang sekolah, di siang lewat pukul dua belas. Basah tubuhku terguyur hujan, bersama berdua tertawa bahagia. Ku bertanya pada hati, telahkah ku jatuh hati. Semua terasa serba salah bila jauh tanpamu."
+        };
+
+// NOTE: Paragraf/kalimat di atas diambil dari lirik lagu. Kalian bebas menggunakan/menambahkan paragraf baru untuk dijadikan soal dalam game.
